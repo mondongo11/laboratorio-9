@@ -1,6 +1,6 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #4CAF50;
+    background-color: #834c05;
     padding: 20px;
     text-align: center;
     color: white;
@@ -23,9 +23,9 @@ nav a:hover {
     width: 90%;
     margin: 20px auto;
     padding: 15px;
-    background-color: #f4f4f4;
+    background-color: #daa157;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(3, 3, 3, 0.1);
 }
 
 .container h2 {
